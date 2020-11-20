@@ -2,4 +2,5 @@
 /shelf/
 .idea/workspace.xml
 blog/__pycache__
+db.sqlite3
 
